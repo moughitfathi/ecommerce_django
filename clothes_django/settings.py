@@ -52,7 +52,7 @@ INSTALLED_APPS = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8081",
+    "http://localhost:8081","https://naughty-mestorf-934db8.netlify.app"
 ]
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
